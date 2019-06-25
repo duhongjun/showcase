@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/showcase/static/css/main.f3312295.chunk.css",
+    "main.js": "/showcase/static/js/main.7eca9e76.chunk.js",
+    "main.js.map": "/showcase/static/js/main.7eca9e76.chunk.js.map",
+    "runtime~main.js": "/showcase/static/js/runtime~main.ac16f234.js",
+    "runtime~main.js.map": "/showcase/static/js/runtime~main.ac16f234.js.map",
+    "static/js/2.fc7b1802.chunk.js": "/showcase/static/js/2.fc7b1802.chunk.js",
+    "static/js/2.fc7b1802.chunk.js.map": "/showcase/static/js/2.fc7b1802.chunk.js.map",
+    "index.html": "/showcase/index.html",
+    "precache-manifest.80ce31418fb187b818a0ba4bdb2c63b9.js": "/showcase/precache-manifest.80ce31418fb187b818a0ba4bdb2c63b9.js",
+    "service-worker.js": "/showcase/service-worker.js",
+    "static/css/main.f3312295.chunk.css.map": "/showcase/static/css/main.f3312295.chunk.css.map",
+    "static/media/flap.wav": "/showcase/static/media/flap.7be06c0e.wav",
+    "static/media/flappyfont.fnt": "/showcase/static/media/flappyfont.d220163a.fnt",
+    "static/media/ouch.wav": "/showcase/static/media/ouch.8183b3f6.wav",
+    "static/media/pipe-hit.wav": "/showcase/static/media/pipe-hit.a5ab1977.wav",
+    "static/media/preloader.gif": "/showcase/static/media/preloader.57ca1a20.gif",
+    "static/media/score.wav": "/showcase/static/media/score.dd35f4f1.wav"
+  }
+}
