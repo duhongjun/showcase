@@ -1,0 +1,57 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+
+  .header {
+    font-size: 30px;
+    padding: 5px 10px;
+  }
+  .body {
+    display: flex;
+    height: calc(100% - 54px);
+    border: 1px solid #ccc;
+    background-color: #f0f2f5;
+    overflow: auto;
+  }
+  .nav {
+    width: 200px;
+    height: 100%;
+    overflow-y: auto;
+    border-right: 1px solid #ddd;
+
+    .nav__item {
+      display: block;
+      color: #000;
+      font-size: 18px;
+      line-height: 44px;
+      padding: 0 10px;
+      box-sizing: border-box;
+      border-bottom: 1px solid #ddd;
+      text-decoration: none;
+      cursor: pointer;
+
+      &:hover {
+        color: #666;
+      }
+      &.active {
+        background-color: deepskyblue;
+        &:hover {
+          color: #000;
+        }
+      }
+    }
+  }
+  .content {
+    flex-grow: 1;
+    padding: 10px;
+    overflow: auto;
+  }
+}
